@@ -1,6 +1,6 @@
 import requests
 
-response = requests.get('https://api.jsonbin.io/b/59d0f30408be13271f7df29c').json()
+response = requests.get('').json()
 APP_ACCESS_TOKEN = response['access_token']
 BASE_URL='https://api.instagram.com/v1/'
 
