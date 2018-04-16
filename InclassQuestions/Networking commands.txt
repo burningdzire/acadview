@@ -1,0 +1,12 @@
+1. ping www.facebook.com
+The ping command is one of the most often used networking utilities for detecting devices on a network and for troubleshooting network problems.
+2. tracert www.facebook.com
+3. netstat
+It is used for displaying information about tcp and udp connections and ports.
+4. nslookup www.facebook.com
+It is used for checking DNS record entries.
+5. ipconfig
+It is used for finding network information about our local machine like IP addresses, DNS addresses etc.
+6. getmac
+It shows the MAC address of our network interfaces.
+
